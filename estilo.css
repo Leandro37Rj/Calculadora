@@ -1,4 +1,7 @@
- 
+  .container{
+    position: relative;
+    top: 110px;
+  }
 
 
  .calculadora {
@@ -38,18 +41,16 @@
     box-shadow: 1px 1px 1px #000;
   }
 
-
-.row button:hover{
+.row button:Hover{
    color: red;
 }
-
 
 
 
   #rodape{
     position: relative;
     left: 630px;
-    top: -18px;
+    top: 94px;
     color: white;
     font-size: 11px;
   }
